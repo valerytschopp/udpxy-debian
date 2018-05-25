@@ -14,9 +14,9 @@ Debian packager for [udpxy](http://www.udpxy.com/)
 
     sudo dpkg -i udpxy_1.0.23-12-1_*.deb
     
-## Setup
+## Service setup
 
-The package will install the `udpxy` program and start it on port `5000`
+The package will install `udpxy`, and start it as a service on port `5000`
 
 Systemd is used to control the service:
 
