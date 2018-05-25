@@ -2,6 +2,10 @@
 
 Debian packager for [udpxy](http://www.udpxy.com/)
 
+`udpxy` is a UDP-to-HTTP multicast traffic relay daemon:
+it forwards UDP traffic from a given multicast subscription
+to the requesting HTTP client.
+
 ## Requirements
 
     sudo apt install build-essential devscripts fakeroot debhelper
