@@ -4,7 +4,7 @@ Debian packager for [udpxy](http://www.udpxy.com/)
 
 ## Requirements
 
-    sudo apt install build-essential
+    sudo apt install build-essential devscripts
 
 ## Building the Debian package
 
