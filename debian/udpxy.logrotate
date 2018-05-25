@@ -1,0 +1,10 @@
+/var/log/udpxy.log {
+  daily
+  missingok
+  rotate 7
+  compress
+  delaycompress
+  copytruncate
+  notifempty
+}
+
