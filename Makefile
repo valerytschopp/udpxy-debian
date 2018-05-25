@@ -10,7 +10,7 @@ dist_url = http://www.udpxy.com/download/udpxy/udpxy-src.tar.gz
 
 debbuild_dir = $(CURDIR)/debbuild
 
-all: deb-src
+all: deb
 
 clean:
 	@echo "Cleaning..."
