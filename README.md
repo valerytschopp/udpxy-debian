@@ -4,7 +4,9 @@ Debian packager for [udpxy](http://www.udpxy.com/)
 
 ## Requirements
 
-    sudo apt install build-essential devscripts
+    sudo apt install build-essential devscripts fakeroot debhelper
+    
+On some system the package `dh-systemd` is required too.
 
 ## Building the Debian package
 
