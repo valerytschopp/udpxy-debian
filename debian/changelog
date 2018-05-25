@@ -1,6 +1,7 @@
 udpxy (1.0.23-12-1) unstable; urgency=low
 
   * Upstream release
+  * Installs in /usr/bin
   * Starts udpxy as service on port 5000
   * Uses systemd for the service control
 
