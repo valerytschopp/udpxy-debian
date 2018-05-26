@@ -1,4 +1,4 @@
-# Defaults for udpxy initscript
+# Defaults for /lib/systemd/system/udpxy.service
 # installed at /etc/default/udpxy by the maintainer scripts
 
 # udpxy 1.0-23.12 (prod) standard [Linux 4.9.35-v7+ armv7l]
