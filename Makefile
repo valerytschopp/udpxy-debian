@@ -4,7 +4,7 @@
 #
 name = udpxy
 version = 1.0.23-12
-release = 1
+release = 2
 
 dist_url = http://www.udpxy.com/download/udpxy/udpxy-src.tar.gz
 
