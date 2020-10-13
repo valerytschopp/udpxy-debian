@@ -1,6 +1,6 @@
 [Unit]
 Description=udpxy: UDP multicast to TCP (HTTP) relay proxy
-Requires=network.target network-online.target
+Requires=network-online.target
 After=network.target network-online.target
 
 [Service]
