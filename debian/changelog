@@ -1,3 +1,9 @@
+udpxy (1.0.23-12-3) unstable; urgency=low
+
+  * Upstream URL
+
+ -- Valery Tschopp <valery.tschopp@gmail.com>  Mon, 31 Oct 2022 11:38:22 +0100
+
 udpxy (1.0.23-12-2) unstable; urgency=low
 
   * udpxy.service updated
