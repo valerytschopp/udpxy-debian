@@ -1,3 +1,9 @@
+udpxy (1.0.25-1-0) unstable; urgency=low
+
+  * Upstream chimpmunk release 1.0-25.1
+
+ -- Valery Tschopp <valery.tschopp@gmail.com>  Mon, 31 Oct 2022 13:58:32 +0100
+
 udpxy (1.0.23-12-3) unstable; urgency=low
 
   * Upstream URL
