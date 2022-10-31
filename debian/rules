@@ -10,6 +10,9 @@ include /usr/share/dpkg/default.mk
 # see FEATURE AREAS in dpkg-buildflags(1)
 #export DEB_BUILD_MAINT_OPTIONS = hardening=+all
 
+# ignore stringop-truncation warnings
+CFLAGS="-Wno-stringop-truncation"
+
 %:
 	dh $@ --with systemd
 
