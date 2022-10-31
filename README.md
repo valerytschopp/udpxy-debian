@@ -1,6 +1,6 @@
 # udpxy-debian
 
-Debian packager for [udpxy](http://www.udpxy.com/)
+Debian packager for [udpxy](http://gigapxy.com/udpxy-en.html)
 
 `udpxy` is a UDP-to-HTTP multicast traffic relay daemon:
 it forwards UDP traffic from a given multicast subscription
