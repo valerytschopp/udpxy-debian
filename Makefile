@@ -4,9 +4,9 @@
 #
 name = udpxy
 version = 1.0.23-12
-release = 2
+release = 3
 
-dist_url = http://www.udpxy.com/download/udpxy/udpxy-src.tar.gz
+dist_url = http://gigapxy.com/download/udpxy/udpxy-src.tar.gz
 
 debbuild_dir = $(CURDIR)/debbuild
 
