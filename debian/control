@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Valery Tschopp <valery.tschopp@gmail.com>
 Build-Depends: debhelper (>= 9.20160709)
 Standards-Version: 3.9.6
-Homepage: http://www.udpxy.com/
+Homepage: http://gigapxy.com/udpxy-en.html
 #Vcs-Git: git://anonscm.debian.org/collab-maint/udpxy-1.0.23.git
 #Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/udpxy-1.0.23.git;a=summary
 
