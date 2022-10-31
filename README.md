@@ -18,7 +18,7 @@ On some system the package `dh-systemd` is required too.
 
 ## Installing the package
 
-    sudo dpkg -i udpxy_1.0.23-12-2_*.deb
+    sudo dpkg -i udpxy_1.0.23-12-3_*.deb
     
 ## Service setup
 
